@@ -1,4 +1,4 @@
-# Desktop-Assistant-Using-Python
+# Voice-Assistant-Using-Python
 
 Speech recognition is the process of converting audio into text. This is commonly used in voice assistants like Alexa, Siri, etc. Python provides an API called SpeechRecognition to allow us to convert audio into text for further processing. In this article, we will look at converting large or long audio files into text using the SpeechRecognition API in python.
 
